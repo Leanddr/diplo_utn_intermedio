@@ -1,0 +1,8 @@
+# Dependencias de App Estacionamiento
+# Para instalar: pip install -r requirements.txt
+
+# ORM para base de datos SQLite
+peewee>=3.0.0
+
+# Para documentación (opcional)
+sphinx>=4.0.0
