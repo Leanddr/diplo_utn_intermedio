@@ -201,5 +201,5 @@ Abrir `docs/_build/html/index.html` en el navegador.
 
 ## Autores
 
-- **[Nombre del alumno]**
+- **Leandro Romero**
 - **Diplomatura UTN - Python Nivel Intermedio 2026**
